@@ -16,25 +16,26 @@ Bảo mật không cao do dựa trên JS.
 Quản lý bộ nhớ.
 Khả năng tùy biến cũng không thực sự tốt đối với một vài module.
 #### 2.Filebase
-- Firebase là một nền tảng để phát triển ứng dụng di động và trang web, bao gồm các API đơn giản và mạnh mẽ mà không cần backend hay server.
-- Lợi ích của filebase đối với các lập trình viên: Đây là một dịch vụ cơ sở dữ liệu trên nền tảng đám mây, hoạt động với hệ thống máy chủ siêu mạnh của Google. Chức năng chính của Firebase là hỗ trợ người dùng lập trình các ứng dụng một cách đơn giản, thông qua thao tác trên cơ sở dữ liệu. Điều này giúp tăng lượng người truy cập trên lập trình ứng dụng API và góp phần tăng thêm lợi nhuận.
-- Bên cạnh đó, Firebase cũng là dịch vụ đa năng có khả năng bảo mật tốt. Hơn nữa, nó còn hỗ trợ được cả hệ điều hành Android lẫn IOS. Vì thế, không lấy gì làm ngạc nhiên khi các lập trình viên thường có xu hướng ưu tiên chọn Firebase làm nền tảng xây dựng các ứng dụng.
+- Khái niệm:
+  - Firebase là một nền tảng để phát triển ứng dụng di động và trang web, bao gồm các API đơn giản và mạnh mẽ mà không cần backend hay server.
+- Lợi ích của filebase đối với các lập trình viên:
+  - Đây là một dịch vụ cơ sở dữ liệu trên nền tảng đám mây, hoạt động với hệ thống máy chủ siêu mạnh của Google. Chức năng chính của Firebase là hỗ trợ người dùng lập trình các ứng dụng một cách đơn giản, thông qua thao tác trên cơ sở dữ liệu. Điều này giúp tăng lượng người truy cập trên lập trình ứng dụng API và góp phần tăng thêm lợi nhuận.
+  - Bên cạnh đó, Firebase cũng là dịch vụ đa năng có khả năng bảo mật tốt. Hơn nữa, nó còn hỗ trợ được cả hệ điều hành Android lẫn IOS. Vì thế, không lấy gì làm ngạc nhiên khi các lập trình viên thường có xu hướng ưu tiên chọn Firebase làm nền tảng xây dựng các ứng dụng.
 
 
-#### ⚙️Cài đặt
-- 1. Yêu cầu: Xcode hoặc Android Studio, Node 12 LTS trở lên.
-- 2. Thiết lập môi trường:
--- install Expo CLI bằng cách chạy lệnh sau trên command line: npm install -g expo-cli
--- Tạo một dự án mới bằng câu lệnh: expo init AwesomeProject
-cd AwesomeProject
-#### Chi tiết chức năng của App:
+## ⚙️Cài đặt
+1. Yêu cầu: Xcode hoặc Android Studio, Node 12 LTS trở lên.
+2. Thiết lập môi trường:
+- install Expo CLI bằng cách chạy lệnh sau trên command line: npm install -g expo-cli
+- Tạo một dự án mới bằng câu lệnh: expo init AwesomeProject
+## Chi tiết chức năng của App:
 - Chức năng đăng ký, đăng nhập:
 - Chức năng hiển thị danh sách sản phẩm theo loại
 - Chức năng tìm kiếm
 - Chức năng thêm sản phẩm vào giỏ hàng
-#### 😀Tác giả
-###### 😀Phạm Minh Tiến
-###### 😀Nguyễn Xuân Thành
-###### 😀Trần Đức Thịnh
-###### 😀Nguyễn Xuân Duẩn
-##### 📖 Tài liệu tham khảo
+## 😀Tác giả
+1. 😀Phạm Minh Tiến
+2. 😀Nguyễn Xuân Thành
+3. 😀Trần Đức Thịnh
+4. 😀Nguyễn Xuân Duẩn
+## 📖 Tài liệu tham khảo
