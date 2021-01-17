@@ -1,5 +1,5 @@
-# Xây dựng App bán hàng online sử dụng react-native và firebase.
-## 🖥 SEO5-Nhom20
+# Xây dựng App bán hàng online sử dụng REACT-NATIVE và FIREBASE.
+## 🖥 SEO5-Nhóm20
 ### 🧾 Giới thiệu
 #### Khái quát chung về REACT-NATIVE và FIREBASE
 ##### 1. React-native
@@ -39,3 +39,4 @@ Khả năng tùy biến cũng không thực sự tốt đối với một vài m
 3. Trần Đức Thịnh
 4. Nguyễn Xuân Duẩn
 ### 📖 Tài liệu tham khảo
+> nguyen xuan thanh
