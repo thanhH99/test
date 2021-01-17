@@ -26,8 +26,8 @@ Khả năng tùy biến cũng không thực sự tốt đối với một vài m
 ### ⚙️Cài đặt
 1. Yêu cầu: Xcode hoặc Android Studio, Node 12 LTS trở lên.
 2. Thiết lập môi trường:
-- install Expo CLI bằng cách chạy lệnh sau trên command line: npm install -g expo-cli
-- Tạo một dự án mới bằng câu lệnh: expo init AwesomeProject
+- install Expo CLI bằng cách chạy lệnh sau trên command line: ``npm install -g expo-cli``
+- Tạo một dự án mới bằng câu lệnh: ``expo init AwesomeProject``
 ### Chi tiết chức năng của App:
 - Chức năng đăng ký, đăng nhập:
 - Chức năng hiển thị danh sách sản phẩm theo loại
@@ -39,4 +39,3 @@ Khả năng tùy biến cũng không thực sự tốt đối với một vài m
 3. Trần Đức Thịnh
 4. Nguyễn Xuân Duẩn
 ### 📖 Tài liệu tham khảo
-> nguyen xuan thanh
