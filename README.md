@@ -32,9 +32,9 @@ cd AwesomeProject
 - Chức năng hiển thị danh sách sản phẩm theo loại
 - Chức năng tìm kiếm
 - Chức năng thêm sản phẩm vào giỏ hàng
-😀Tác giả
-😀Phạm Minh Tiến
-😀Nguyễn Xuân Thành
-😀Trần Đức Thịnh
-😀Nguyễn Xuân Duẩn
-📖 Tài liệu tham khảo
+#### 😀Tác giả
+###### 😀Phạm Minh Tiến
+###### 😀Nguyễn Xuân Thành
+###### 😀Trần Đức Thịnh
+###### 😀Nguyễn Xuân Duẩn
+##### 📖 Tài liệu tham khảo
