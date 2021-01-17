@@ -1,7 +1,7 @@
-# Xây dựng App bán hàng online sử dụng react-native và filebase.
+# Xây dựng App bán hàng online sử dụng react-native và firebase.
 ## 🖥 SEO5-Nhom20
 ### 🧾 Giới thiệu
-#### Khái quát chung về REACT-NATIVE và FILEBASE
+#### Khái quát chung về REACT-NATIVE và FIREBASE
 ##### 1. React-native
 - React native là một công cụ giúp chúng ta lập trình đa nền tảng để tạo ra các ứng dụng trên môi trường native. Nó là một framework mã nguồn mở được phát triển bởi Facebook, cho phép bạn sử dụng Java script để phát triển phần mềm trên điện thoại di động Android và IOS. React native cũng giống như React vậy chúng sử dụng các native components thay vì các web components. 
 - Ưu điểm: 
@@ -15,7 +15,7 @@ Hiệu năng sẽ thấp hơn với app thuần native code.
 Bảo mật không cao do dựa trên JS.
 Quản lý bộ nhớ.
 Khả năng tùy biến cũng không thực sự tốt đối với một vài module.
-##### 2.Filebase
+##### 2.Firebase
 - Khái niệm:
   - Firebase là một nền tảng để phát triển ứng dụng di động và trang web, bao gồm các API đơn giản và mạnh mẽ mà không cần backend hay server.
 - Lợi ích của filebase đối với các lập trình viên:
