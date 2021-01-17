@@ -27,11 +27,11 @@ Khả năng tùy biến cũng không thực sự tốt đối với một vài m
 -- install Expo CLI bằng cách chạy lệnh sau trên command line: npm install -g expo-cli
 -- Tạo một dự án mới bằng câu lệnh: expo init AwesomeProject
 cd AwesomeProject
-- Chi tiết chức năng của App:
--- Chức năng đăng ký, đăng nhập:
--- Chức năng hiển thị danh sách sản phẩm theo loại
--- Chức năng tìm kiếm
--- Chức năng thêm sản phẩm vào giỏ hàng
+#### Chi tiết chức năng của App:
+- Chức năng đăng ký, đăng nhập:
+- Chức năng hiển thị danh sách sản phẩm theo loại
+- Chức năng tìm kiếm
+- Chức năng thêm sản phẩm vào giỏ hàng
 😀Tác giả
 😀Phạm Minh Tiến
 😀Nguyễn Xuân Thành
